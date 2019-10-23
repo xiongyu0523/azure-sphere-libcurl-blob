@@ -1,0 +1,11 @@
+{
+  "SchemaVersion": 1,
+  "Name" : "azure_sphere_libcurl_blob",
+  "ComponentId" : "78671884-8f79-4339-b712-ccdb3f04aae7",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedConnections": [ "<your-stroage-account>.blob.core.windows.net" ]
+  },
+  "ApplicationType":"Default"
+}
