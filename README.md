@@ -66,4 +66,5 @@ This sample demonstrates uploading a text file to Azure Blob service from Azure 
     < 
     * Connection #0 to host <your-storage-account>.blob.core.windows.net left intact
    ```
-   1. Go to Azure Storage Explorer and double click your container, a *hello.txt* will be listed. Double click the file to open and inspect the content: **Hello World**
+
+7. Go to Azure Storage Explorer and double click your container, a *hello.txt* will be listed. Double click the file to open and inspect the content: **Hello World**
